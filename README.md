@@ -1,6 +1,6 @@
 # Sustainability Report Data Extraction Tool
 
-![alt text](screenshots/v1/1.png)
+ ![alt text](screenshots/v2/3.png)
 
 This simple app deployed to Streamlit Cloud is intended to help those reading. sustainability reporting literature to more easily isolate data-containing pages from textual pages in the report. 
 
